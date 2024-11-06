@@ -45,6 +45,8 @@ Variable: Time and cost
 Fixed: Time and cost
 Variable: Scope
 
+WATERFALL / AGILE
+
 | Focus:                 | On proces                     | On people                                |
 | ---------------------- | ----------------------------- | ---------------------------------------- |
 | **Management:**        | By plans                      | By changes                               |
