@@ -37,11 +37,13 @@ De esta reunión surgió el ***Manifest Ágil*** que define cuatro valores funda
 La principal diferencia entre Waterfall y Agile se puede ilustrar con las siguientes restricciones triples que pueden proporcionar una visión general. 
 
 
-   WATERFALL                               |           AGILE
+- WATERFALL                              
+Fixed: Alcance (Scope)
+Variable: Time and cost
 
-Alcance (Scope)                                   Time   Cost     Fixed
-   Time    Cost                                  Alcance (Scope) Variable
-
+- AGILE
+Fixed: Time and cost
+Variable: Scope
 
 | Focus:                 | On proces                     | On people                                |
 | ---------------------- | ----------------------------- | ---------------------------------------- |
