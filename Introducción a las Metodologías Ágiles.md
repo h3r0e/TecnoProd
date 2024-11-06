@@ -36,3 +36,28 @@ De esta reunión surgió el ***Manifest Ágil*** que define cuatro valores funda
 
 La principal diferencia entre Waterfall y Agile se puede ilustrar con las siguientes restricciones triples que pueden proporcionar una visión general. 
 
+
+   WATERFALL                               |           AGILE
+
+Alcance (Scope)                                   Time   Cost     Fixed
+   Time    Cost                                  Alcance (Scope) Variable
+
+
+| Focus:                 | On proces                     | On people                                |
+| ---------------------- | ----------------------------- | ---------------------------------------- |
+| **Management:**        | By plans                      | By changes                               |
+| **Development style:** | Waterfall / Long iterations   | Incremental, iterative, short iterations |
+| **Requeriments**       | Planned at the beggining      | Update before every iteration            |
+| **Customer involved**  | At the begginning and the end | All the time                             |
+| **Feedback**           | Minimal                       | Frequent                                 |
+| **Social aspects**     | Plan and control              | Trust, responsability, motivation        |
+| Team organization      | Jerárquico                    | Equipos autoorganizados                  |
+| Liderazgo              | Dirgente                      | Acompañamiento                           |
+| Change management      | Minimization of changes       | Accept and adapt to changes              |
+| Documentation          | Exhaustive                    | Just enough                              |
+| Communication          | Principalmente escrita        | Principalmente personal                  |
+| Product delivery       | En conjunto al final          | Frecuente, pero parcial.                 |
+
+
+
+
